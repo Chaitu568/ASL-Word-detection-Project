@@ -1,7 +1,9 @@
 # ASL-Word-detection-Project
 
 
-The cnn file cannot be uploaded due to the size restrictions.
+  The cnn file cannot be uploaded due to the size restrictions.
+
+
 Steps for Project
 ------------------
 
